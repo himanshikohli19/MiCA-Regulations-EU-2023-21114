@@ -25,4 +25,4 @@ MiCA is vast, with 9 titles comprising 149 articles, covering the entire crypto 
 **Title IX:** Transitional and Final Provisions — Covers how to transition to these new rules and when they start, with timelines like June 30, 2024, for stablecoins, and December 30, 2024, for the rest. [Article 140–149]
 
 
-For more information, read: [Medium Article]([https://medium.com/@himanshi.kohli19/mica-regulations-eu-2023-21114-the-eus-bold-blueprint-for-crypto-s-future-22716928801f])
+_For more information, **read_**: [https://medium.com/@himanshi.kohli19/mica-regulations-eu-2023-21114-the-eus-bold-blueprint-for-crypto-s-future-22716928801f](url)

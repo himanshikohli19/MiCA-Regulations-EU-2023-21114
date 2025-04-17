@@ -1,19 +1,28 @@
-What is MiCA Regulation (or MiCAR)?
+**What is MiCA Regulation (or MiCAR)?**
 MiCA is the EU’s answer to the wild-west of crypto, a legal framework designed to bring order to the chaos. Formally, it’s Regulation (EU) 2023/1114, part of the EU’s digital finance strategy to make Europe a global leader in digital finance while managing risks. It provides legal certainty for crypto businesses, supports innovation, and protects consumers from scams and market manipulation. Think of it as the EU’s rulebook for crypto, ensuring that everything from token issuance to trading is safe and fair.
 
 Key dates to note: most rules kick in on December 30, 2024, but stablecoin-related rules (Titles III and IV) start from June 30, 2024, giving businesses time to adapt. This phased approach reflects the EU’s balance between urgency and practicality, acknowledging the crypto market’s rapid evolution.
 
-What Does MiCA Cover?
+**What Does MiCA Cover?**
+
 MiCA is vast, with 9 titles comprising 149 articles, covering the entire crypto ecosystem like a multi-layered cake, each layer addressing a different part:
 
 Title I: Subject Matter, Scope, and Definitions — Sets the basics, like what “crypto-asset” means, ensuring everyone’s on the same page. It defines terms like DLT, utility tokens, and CASPs, creating a common language for regulators and businesses. [Article 1–3]
+
 Title II: Crypto-Assets Other Than Asset-Referenced Tokens or E-Money Tokens — Regulates utility tokens, requiring issuers to publish white papers with detailed information, ensuring transparency for projects like DeFi tokens. [Article 4–15]
+
 Title III: Asset-Referenced Tokens — Imposes stringent requirements on stablecoins pegged to multiple assets, like USDT, including authorization, reserve management, and redemption rights, to prevent another TerraUSD collapse. [Article 16–47]
+
 Title IV: E-Money Tokens — Governs stablecoins tied to one currency, like a digital Euro, aligning with existing e-money laws to ensure stability and consumer trust. [Article 48–58]
+
 Title V: Authorisation and Operating Conditions for Crypto-Asset Service Providers (CASPs) — Details how companies like exchanges or wallet providers get licensed and must operate, with 23 articles covering everything from capital requirements to governance. [Article 59–85] — Read more about CASPs
+
 Title VI: Prohibition of Market Abuse Involving Crypto-Assets — Prevents manipulation and insider trading, keeping markets honest, akin to stock market rules but for crypto. [Article 86–92]
+
 Title VII: Competent Authorities, the EBA, and ESMA — Defines roles for national regulators (NCAs) and EU bodies like ESMA for oversight, ensuring a coordinated approach across the 27 member states. [Article 93–138]
+
 Title VIII: Delegated Acts — Allows the EU Commission to add technical details later, keeping MiCA flexible for future changes. [Article 139]
 Title IX: Transitional and Final Provisions — Covers how to transition to these new rules and when they start, with timelines like June 30, 2024, for stablecoins, and December 30, 2024, for the rest. [Article 140–149]
 
-For more information, read: [Medium Article]([url](https://medium.com/@himanshi.kohli19/mica-regulations-eu-2023-21114-the-eus-bold-blueprint-for-crypto-s-future-22716928801f#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6ImMzN2RhNzVjOWZiZTE4YzJjZTkxMjViOWFhMWYzMDBkY2IzMWU4ZDkiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTA1ODkwODQzNTU5MDkxMjMzNTgiLCJlbWFpbCI6ImhpbWFuc2hpLmtvaGxpMTlAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsIm5iZiI6MTc0NDg3NzUzMCwibmFtZSI6IkhpbWFuc2hpIEtvaGxpIiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hL0FDZzhvY0x3T3AwY1czOTBEd2NHLVZzLU5Yd0NDUVpCR1gzNVJmQ0NMeVRiSWdRTVJGMU1Ydz1zOTYtYyIsImdpdmVuX25hbWUiOiJIaW1hbnNoaSIsImZhbWlseV9uYW1lIjoiS29obGkiLCJpYXQiOjE3NDQ4Nzc4MzAsImV4cCI6MTc0NDg4MTQzMCwianRpIjoiOGJkNjMxZTE4NjcwMTY3ZTE1NDhlOTIzMWU3YzZlNzFhOGIwN2JkYiJ9.RPP_6Gke0dnvSLfK6u5tNOvCceh3p109YxKBggVUJhwF463E5xxrzKAjqLDLu3WR8OpYICFombejsUYu6czlD6xMuT0AQnZP2GnbJJVrYQuOoKdoYv2Vz4cBKjzEj7ZGBE1Wg1byENvP5qM-i_lfR-GWfkkDWa_JvhKGGbJnX02dsMCjEbbDacq4FjS2qCRHKAqd33uSGK-nCKMkbWOAU9iXAm3avPl0B-0Z3oK1SU9lTd78VwO-98BUm6OnsQak4sIx3uy3EGH2QMa0Knyt_4djFgCaw-ZT_gRxO-y5Upk1Lg26IqYwta_B0pcBGOe19jc7S_dx5qbBk4R71c3c9Q))
+
+For more information, read: [Article]([url](https://medium.com/@himanshi.kohli19/mica-regulations-eu-2023-21114-the-eus-bold-blueprint-for-crypto-s-future-22716928801f))
